@@ -9,7 +9,7 @@ dikemas menjadi file **executable (.exe)** sehingga dapat dijalankan tanpa Pytho
 
 ---
 
-## 🎯 Tujuan Aplikasi
+# 🎯 Tujuan Aplikasi
 - Mengelola data surat masuk dan surat keluar
 - Mempermudah pencarian arsip surat
 - Menyimpan dokumen surat dalam bentuk PDF
@@ -18,7 +18,7 @@ dikemas menjadi file **executable (.exe)** sehingga dapat dijalankan tanpa Pytho
 
 ---
 
-## ✨ Fitur Aplikasi
+# ✨ Fitur Aplikasi
 - ✅ Input data surat (Tanggal, Kode, Nama, Asal, Tujuan)
 - ✅ Pilihan jenis surat (Masuk / Keluar) menggunakan ComboBox
 - ✅ Upload dan arsip surat dalam bentuk file PDF
@@ -31,7 +31,7 @@ dikemas menjadi file **executable (.exe)** sehingga dapat dijalankan tanpa Pytho
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+# 🛠️ Teknologi yang Digunakan
 - Python 3
 - PyQt6
 - Supabase (Database & REST API)
@@ -41,7 +41,7 @@ dikemas menjadi file **executable (.exe)** sehingga dapat dijalankan tanpa Pytho
 
 ---
 
-## 📦 Struktur Folder Project
+# 📦 Struktur Folder Project
 LibrarySurat/
 │
 ├── build # folder build aplikasi 
